@@ -39,6 +39,9 @@ captures/
 # Intellij
 *.iml
 .idea
+build
+buildsystem
+
 
 # Keystore files
 *.jks
